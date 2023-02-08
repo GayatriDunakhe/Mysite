@@ -188,6 +188,24 @@ p{
 	border-radius: 50px;
 }
 
+.ux{
+	width: 35%;
+	background: linear-gradient(135deg, #fdb3ca, #d1d5fa);
+	border-radius: 50px;
+}
+
+.ui{
+	width: 56%;
+	background: linear-gradient(135deg, #fdb3ca, #d1d5fa);
+	border-radius: 50px;
+}
+
+.gd{
+	width: 67%;
+	background: linear-gradient(135deg, #fdb3ca, #d1d5fa);
+	border-radius: 50px;
+}
+
 hr{
 	border:dotted #fdb3ca 6px;
 	border-bottom: none;
